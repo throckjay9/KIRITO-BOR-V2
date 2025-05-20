@@ -1,7 +1,7 @@
-# 👽 Kirito Bot V2
+# 👽 SHELBY-BOT
 
 <div align="center">
-    <img src="./assets/images/kirito-bot.png" width="500">
+    <img src="./assets/images/Shelby-bot.png" width="500">
 </div>
 
 <br />
@@ -62,13 +62,13 @@ cd /sdcard
 4 - Clone o repositório.
 
 ```sh
-git clone https://github.com/Throckjay9/kirito-bot.git
+git clone https://github.com/throckjay9/SHELBY-BOT.git
 ```
 
 5 - Entre na pasta que foi clonada.
 
 ```sh
-cd kirito-bot
+cd Shelby-bot
 ```
 
 6 - Habilite permissões de leitura e escrita (faça apenas 1x esse passo).
@@ -93,19 +93,19 @@ npm start
 
 ```js
 // Prefixo dos comandos
-exports.PREFIX = "/, # e @";
+exports.PREFIX = "/, #, @";
 
 // Emoji do bot (mude se preferir).
 exports.BOT_EMOJI = "👽";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Kirito Bot V2";
+exports.BOT_NAME = "SHELBY-BOT";
 
 // Número do bot. Coloque o número do bot (apenas números).
-exports.BOT_NUMBER = "5511979947822";
+exports.BOT_NUMBER = "5511999999999";
 
 // Número do dono do bot. Coloque o número do dono do bot (apenas números).
-exports.OWNER_NUMBER = "5511959315541";
+exports.OWNER_NUMBER = "5511999999999";
 ```
 
 12 - Inicie o bot novamente.
@@ -263,7 +263,7 @@ Edite o arquivo `config.js` que está dentro da pasta `src` e cole sua api key d
 Para obter seu token, acesse: [https://api.spiderx.com.br](https://api.spiderx.com.br) e crie sua conta gratuitamente!
 
 ```js
-exports.SPIDER_API_TOKEN = "seu_token_aqui";
+exports.SPIDER_API_TOKEN = "fXiSCNhD0qiik8zaaaEG";
 ```
 ## Funcionalidades
 
@@ -307,7 +307,7 @@ exports.SPIDER_API_TOKEN = "seu_token_aqui";
 
 ## Auto responder
 
-O Takeshi Bot possui um auto-responder embutido, edite o arquivo em `./database/auto-responder.json`:
+O Shelby-bot possui um auto-responder embutido, edite o arquivo em `./database/auto-responder.json`:
 
 ```json
 [
