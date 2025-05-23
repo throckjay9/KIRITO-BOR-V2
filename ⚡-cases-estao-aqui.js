@@ -15,7 +15,7 @@
  *
  * A partir de agora, vamos trocar a palavra "case" por "comando", ok? Vamos lá!
  *
- * ---------------- 🤖 ONDE ESTÃO OS COMANDOS? 🤖 ----------------
+ * ---------------- 👽 ONDE ESTÃO OS COMANDOS? 👽 ----------------
  *
  * Você encontra os comandos dentro da pasta "src/commands"
  * Não entendeu? Vamos lá:
@@ -36,7 +36,7 @@
  * Simples, não é mesmo? Ah, detalhe, não precisa colocar um "if" para saber se o comando é de admin ou de dono.
  * O bot já faz isso para você! Basta colocar o comando na pasta correspondente!
  *
- * ---------------- 🤖 ONDE MODIFICO O MENU? 🤖 ----------------
+ * ---------------- 👽 ONDE MODIFICO O MENU? 👽 ----------------
  *
  * Abra a pasta "src" e depois na pasta "utils"
  * Vá no arquivo "messages.js" e edite o retorno da função "menuMessage"!
@@ -49,16 +49,16 @@
  *
  * Olá `tudo bem?` - Isto está ERRADO (veja que o "Olá" está fora das crases) ❌
  *
- * ---------------- 🤖 COMO TROCO A FOTO DO BOT? 🤖 ----------------
+ * ---------------- 👽 COMO TROCO A FOTO DO BOT? 👽 ----------------
  *
  * Abra a pasta "assets"
  * Depois, abra a pasta "images"
  * Substitua a imagem "takeshi-bot.png" por outra de sua preferência!
- * Só não esqueça de manter o nome "takeshi-bot.png"
+ * Só não esqueça de manter o nome "SHELBY-BOT.png"
  *
  * ---------------- 🚀 IMPORTANTE 🚀 ----------------
  *
- * Leia o tutorial completo em: https://github.com/Throckjay9/Kirito-Bot V2?tab=readme-ov-file#instala%C3%A7%C3%A3o-no-termux-
+ * Leia o tutorial completo em: https://github.com/throckjay9/SHELBY-BOT.git
  *
  * Não pule etapas! Leia-o completo, pois ele é muito importante para você entender como o bot funciona!
  *

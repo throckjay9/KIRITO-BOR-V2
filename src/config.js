@@ -1,23 +1,23 @@
 const path = require("path");
 
 // Prefixo dos comandos.
-exports.PREFIX = "/, # e @";
+exports.PREFIX = "/, #, @ ";
 
 // Emoji do bot (mude se preferir).
 exports.BOT_EMOJI = "👽";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Kirito Bot V2";
+exports.BOT_NAME = "SHELBY-BOT";
 
 // Número do bot. Coloque o número do bot
 // (apenas números, exatamente como está no WhatsApp).
 // Se o seu DDD não for de SP ou do Rio, não coloque o 9 antes do número.
-exports.BOT_NUMBER = "5511979947822";
+exports.BOT_NUMBER = "5511999999999";
 
 // Número do dono do bot. Coloque o número do dono do bot
 // (apenas números, exatamente como está no WhatsApp).
 // Se o seu DDD não for de SP ou do Rio, não coloque o 9 antes do número.
-exports.OWNER_NUMBER = "5511959315541";
+exports.OWNER_NUMBER = "5511999999999";
 
 // Diretório dos comandos
 exports.COMMANDS_DIR = path.join(__dirname, "commands");

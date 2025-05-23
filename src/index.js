@@ -15,7 +15,7 @@
  *
  * A partir de agora, vamos trocar a palavra "case" por "comando", ok? Vamos lá!
  *
- * ---------------- 🤖 ONDE ESTÃO OS COMANDOS? 🤖 ----------------
+ * ---------------- 👽 ONDE ESTÃO OS COMANDOS? 👽 ----------------
  *
  * Você encontra os comandos dentro da pasta "src/commands"
  * Não entendeu? Vamos lá:
